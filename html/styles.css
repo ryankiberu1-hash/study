@@ -12,3 +12,7 @@ p {
     color: gray;
     font-size: 18px;
 }
+ul {
+    text-align: left;
+    display: inline-block;
+}
