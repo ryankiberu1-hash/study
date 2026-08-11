@@ -1,0 +1,1 @@
+Name: Ryan, Age: 20, Grade: {'MATH': 90, 'SCIENCE': 85, 'ENGLISH': 88}
